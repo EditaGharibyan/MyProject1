@@ -22,7 +22,7 @@ namespace MyProject
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-
+            //jljbhkn/l
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
